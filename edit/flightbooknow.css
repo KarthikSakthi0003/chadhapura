@@ -1,0 +1,345 @@
+.flight_detail_item {
+  padding-bottom: 10px;
+}
+
+.cheapest_flight_block {
+  background: #40c84f;
+  border-radius: 11px 11px 0 0;
+  margin: 0 16px;
+  padding: 5px 12px;
+}
+.align-items-center {
+  -ms-flex-align: center !important;
+  align-items: center !important;
+}
+.d-inline-flex {
+  display: -ms-inline-flexbox !important;
+  display: inline-flex !important;
+}
+.cheapest_flight_block span,
+.select_seat_block span {
+  line-height: 0;
+}
+svg {
+  overflow: hidden;
+  vertical-align: middle;
+}
+.cheapest_flight_block p,
+.select_seat_block p {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  color: #fff;
+  padding-left: 5px;
+  margin: 0px;
+}
+/* .cheapest_flight .search_hotel_wrap */
+.search_hotel_wrap.flight_details_blk {
+  padding: 15px 21px 15px 18px;
+  margin: 0;
+}
+.search_hotel_wrap {
+  background: #fff;
+  border-radius: 11px;
+  padding: 8px 10px;
+  margin-bottom: 18px;
+}
+.align-items-center {
+  -ms-flex-align: center !important;
+  align-items: center !important;
+}
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.no-gutters > .col,
+.no-gutters > [class*="col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+/* @media (min-width: 1200px) .col-xl-9 {
+  -ms-flex: 0 0 75%;
+  flex: 0 0 75%;
+  max-width: 75%;
+}
+@media (min-width: 992px) .col-lg-12 {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+@media (min-width: 576px) .col-sm-12 {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+} */
+.col-12 {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.col {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+}
+.flight_details_wrap {
+  padding: 0 10px;
+}
+.flight_details_wrap ul {
+  margin: 0 -8px;
+  list-style-type: none;
+}
+.align-items-center {
+  -ms-flex-align: center !important;
+  align-items: center !important;
+}
+.justify-content-center {
+  -ms-flex-pack: center !important;
+  justify-content: center !important;
+}
+.d-flex {
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+.flight_details_wrap ul li {
+  padding: 0 8px;
+}
+.text-center {
+  text-align: center !important;
+}
+img {
+  vertical-align: middle;
+}
+.flight_details_img P {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  padding-top: 5px;
+}
+.flight_details_con {
+  background: #efefef;
+  border-radius: 3px;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  min-width: 150px;
+  height: 60px;
+}
+.flight_details_con h4 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  padding-bottom: 5px;
+  margin: 0px;
+}
+.flight_details_direct {
+  text-align: center;
+}
+.border-line {
+  position: relative;
+}
+.flight_details_direct p span {
+  border-top: 1px solid #40c84f;
+  display: block;
+  width: 57px;
+}
+.flight_details_direct span {
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+  color: #40c84f;
+}
+.travel-stops {
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+  color: #40c84f;
+}
+.flight_details_time {
+  width: 60%;
+  align-items: baseline;
+  padding-left: 10px;
+}
+.flight_details_time_wrap {
+  padding-left: 12px;
+}
+.flight_details_time h4 {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 19px;
+  padding-bottom: 4px;
+}
+.info-icons img {
+  min-width: 20px;
+  height: 20px;
+}
+.info-icons img {
+  min-width: 20px;
+  height: 20px;
+}
+.search_hotel_wrap .col:last-child {
+  border-left: 1px solid rgba(51, 51, 51, 0.37);
+}
+.no-gutters > .col,
+.no-gutters > [class*="col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.flight_details_blk .search_hotal_room {
+  padding: 0 20px 0 27px;
+}
+.search_hotal_room {
+  text-align: center;
+  padding: 15px 15px 0px 15px;
+}
+.search_hotal_room p {
+  font-size: 12px;
+  line-height: 14px;
+  color: #333;
+}
+.search_hotal_room p {
+  font-size: 12px;
+  line-height: 14px;
+  color: #333;
+}
+.flight_details_blk .search_hotal_room h4 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 19px;
+  padding: 5px 0 11px;
+  margin: 0px;
+}
+.search_hotal_room h4 {
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 30px;
+  color: #40c84f;
+  text-transform: uppercase;
+  padding-bottom: 19px;
+}
+.flight_details_blk .search_hotal_room button {
+  background: #c9dbf2;
+  text-transform: uppercase;
+  border-radius: 11px;
+  border: 0;
+  width: 100%;
+  padding: 0 25px;
+  margin-top: 0px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 16px;
+}
+[type="button"]:not(:disabled),
+[type="reset"]:not(:disabled),
+[type="submit"]:not(:disabled),
+button:not(:disabled) {
+  cursor: pointer;
+}
+.button {
+  display: inline-block;
+  padding: 8px 25px;
+  text-align: center !important;
+  border-radius: 11px !important;
+  font-weight: 500;
+  font-size: 14px !important;
+  line-height: 21px;
+  text-transform: uppercase !important;
+  background: #fff;
+  color: #333;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+.green_btn {
+  background: #40c84f !important;
+  color: #fff !important;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  border: 2px solid #40c84f;
+}
+.button {
+  display: inline-block;
+  padding: 8px 25px;
+  text-align: center;
+  border-radius: 11px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  text-transform: uppercase;
+  background: #fff;
+  color: #333;
+  transition: all 0.3s ease-in-out;
+}
+.p-2 {
+  padding: 0.5rem !important;
+}
+.mb-2,
+.my-2 {
+  margin-bottom: 0.5rem !important;
+}
+[type="button"],
+[type="reset"],
+[type="submit"],
+button {
+  -webkit-appearance: button;
+}
+button,
+select {
+  text-transform: none;
+}
+button,
+input {
+  overflow: visible;
+}
+.search_hotal_room p {
+  font-size: 12px;
+  line-height: 14px;
+  color: #333;
+}
+.flight_details_blk .search_hotal_room a {
+  font-size: 14px;
+  line-height: 16px;
+  padding: 8px 25px;
+}
+.search_flight_list_btn .btn-details {
+  background: #c9dbf2;
+  text-transform: uppercase;
+  border-radius: 11px;
+  border: 0;
+  width: 64%;
+  padding: 8px 25px;
+  margin-top: 0px;
+  text-align: center;
+  font-size: 14px;
+  color: #333;
+  box-shadow: none;
+  text-shadow: none;
+  font-weight: 500;
+}
+.search_hotal_room a {
+  width: 100%;
+  padding: 10px 25px;
+}
+.btn {
+  width: 100%;
+}
+.dropdown-toggle {
+  white-space: nowrap;
+}
+.dropdown-toggle::after {
+  margin-left: 3px;
+  margin-top: 0px;
+  vertical-align: middle;
+  font-size: 23px;
+}

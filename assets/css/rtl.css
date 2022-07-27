@@ -1,0 +1,545 @@
+body.rtl header button.language-drop span.language {
+  margin-right: 0;
+}
+body.rtl header button.language-drop span#lang_selected {
+  margin-left: 10px;
+}
+body.rtl header .admin-user {
+  padding-right: 0;
+  padding-left: 15px;
+  border-right: none;
+  border-left: 1px solid #333333;
+}
+body.rtl header .admin-user .user-details {
+  margin-left: 10px;
+}
+body.rtl .home-pg-tabs.nav svg {
+  margin-right: 0;
+  margin-left: 8px;
+}
+body.rtl .check-box-row .form-check-label span {
+  padding-left: 0;
+  padding-right: 10px;
+}
+body.rtl .search-input input {
+  padding: 26px 39px 26px 0;
+}
+body.rtl .flying-input .search-input svg {
+  left: unset;
+  right: 15px;
+  text-align: right;
+  float: right;
+}
+body.rtl .search-input svg.flip-ico {
+  right: unset !important;
+  left: 20px !important;
+}
+body.rtl .date-input input {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+}
+body.rtl .rtl-inputspc {
+  padding-left: 15px !important;
+}
+body.rtl .rtl-spac {
+  padding: 0 20px;
+}
+div#land_select {
+  left: -10px !important;
+}
+body.rtl .section-dropdown .dropdown button::after {
+  right: unset;
+  left: 15px;
+  top: 50%;
+}
+body.rtl .date-input input {
+  padding-left: 0;
+}
+body.rtl .rtl-spac button.dropdown-toggle {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+body.rtl .section-dropdown button span {
+  padding-left: 0;
+  padding-right: 10px;
+}
+.dropdown-menu {
+  min-width: 120px;
+  background: #ffffff;
+  box-shadow: 0 0 5px #aaa;
+  padding: 10px 10px;
+  border-radius: 11px;
+}
+.dropdown-menu a.dropdown-item:hover {
+  color: #333333;
+  background-color: #c9dbf2;
+  border-bottom: 1px solid #ffffff;
+  border-radius: 11px;
+}
+
+body.rtl .travelling-heading h2,
+body.rtl .travelling-heading p {
+  text-align: right;
+}
+body.rtl .hol-desination-text {
+  left: unset;
+  text-align: right;
+  right: 0;
+}
+body.rtl .planeSection .planeText {
+  text-align: right;
+}
+body.rtl .slick-track {
+  float: left;
+}
+body.rtl .take-Charapura-font {
+  text-align: right;
+}
+body.rtl .arrow {
+  margin-top: -40px;
+  right: unset;
+  transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  -moz-transform: scaleX(-1);
+  -ms-transform: scaleX(-1);
+  left: 0;
+}
+body.rtl .form-check-label {
+  margin-left: 0;
+  margin-right: 0.625rem;
+}
+
+body.rtl .staycation-banner .dubai-staycation-image h2 {
+  text-align: right;
+}
+body.rtl .staycationPage-11 .home-pg-form svg {
+  margin-right: 0 !important;
+  margin-left: 0.25rem;
+}
+body.rtl .staycationPage-11 .formHeading {
+  padding-left: 0;
+  text-align: right;
+  padding-right: 24px;
+}
+body.rtl .staycationPage-11 span.calender1 {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-top-left-radius: 11px;
+  border-bottom-left-radius: 11px;
+}
+body.rtl .staycationPage-11 .change112 {
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+body.rtl .staycationPage-11 .rowheading h4,
+body.rtl .staycationPage-11 .listGroup p,
+body.rtl .staycationPage-11 .textpart1 p {
+  text-align: right;
+}
+body.rtl .staycationPage-11 .home-pg-form h4 {
+  text-align: right !important;
+}
+body.rtl .activity-title-section .card-deal-txt h2 {
+  text-align: right;
+}
+body.rtl .trip-card.tab-pane .card-deal-txt {
+  text-align: right;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+body.rtl .arb-tour-card .card-deal-txt .text-btn {
+  padding: 0 0 18px 0;
+}
+body.rtl .tickets-card-img .entryticket-title-section .card-deal-txt h2 {
+  text-align: right;
+}
+
+body.rtl .flying-input .toggle {
+  margin: 0 !important;
+}
+body.rtl .flying-input .toggle label.switch {
+  margin: 0 0 0 20px;
+}
+body.rtl .flying-input .dropdown-tran span {
+  padding-left: 20px;
+  padding-right: unset;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+body.rtl .tranfer-section .wave h4 {
+  text-align: right;
+}
+body.rtl .flying-input.toggle-bar {
+  padding: 0;
+}
+body.rtl .insurance-order ul.list-inline li {
+  text-align: right;
+}
+body.rtl .insurance-order ul > li svg {
+  margin-right: 0;
+  margin-left: 10px;
+}
+body.rtl .flying-input .dropdown-tran:last-child {
+  margin-right: 15px !important;
+}
+body.rtl footer .footer-bg .center-mobile img {
+  margin-right: 0 !important;
+  margin-left: 16px;
+}
+body.rtl .flying-input .search-input {
+  position: relative;
+  padding: 0;
+}
+body.rtl div#Flights .form-row {
+  padding: 0;
+}
+body.rtl .numbering h5 {
+  margin-right: unset;
+  margin-left: 11px;
+}
+body.rtl .position-abso {
+  left: 0;
+  right: unset;
+}
+body.rtl div.tranfer .form-row,
+body.rtl div.holiday .form-row {
+  padding: 0 15px !important;
+}
+body.rtl .tranfer .flying-input.toggle-bar {
+  padding: 0 10px;
+}
+body.rtl .flight-checkbox .form-check-input {
+  margin: 0 0 0 10px !important;
+}
+body.rtl .rtl-inputbox-spc {
+  padding-left: 15px !important;
+}
+body.rtl .hol-desination-text h3.col-heading {
+  padding-right: 0 !important;
+}
+body.rtl .section-dropdown button {
+  text-align: right;
+}
+body.rtl .home-page-banner .input-head {
+  left: unset;
+  right: 40px;
+}
+body.rtl .home-page-banner .nationality {
+  padding-left: unset !important;
+  padding-right: 80px !important;
+}
+body.rtl .imgSection .column-txt h6 {
+  text-align: right;
+}
+.holiday .search-input input {
+  padding-right: 15px;
+}
+body.rtl .insurance-tab-rtl .flying-input div.search-input {
+  position: relative;
+  right: 50px;
+}
+body.rtl .bannerData .bannerCont1 {
+  text-align: right;
+}
+body.rtl .callIcon {
+  text-align: right;
+  float: right;
+}
+body.rtl .holidaySection .formdataaa .formData h3 {
+  text-align: right;
+}
+body.rtl .holidaySection .formHeading {
+  padding-left: 0;
+  padding-right: 31px;
+  text-align: right;
+}
+body.rtl .holidaySection .formCon {
+  text-align: right;
+}
+body.rtl .holidaySection .usersvg {
+  padding-right: 0;
+  padding-left: 12px;
+}
+body.rtl .accordion__body.is-active div.row {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+body.rtl .firstTerm .dit11 {
+  padding-right: 0 !important;
+  padding-left: 15px;
+}
+body.rtl .termText .firstTerm p.dotText {
+  text-align: right;
+}
+body.rtl .cancllationPolicy h3.pocicyHeading,
+body.rtl .cancllationPolicy .contactRes-padd h3 {
+  text-align: right;
+}
+body.rtl .contactdata .call-Icon {
+  padding-right: 0 !important;
+  padding-left: 10px;
+}
+body.rtl .cancllationPolicy .cancellationdata .firstTerm div {
+  text-align: right;
+}
+body.rtl .holidaySectionAccordion .line-height-27 {
+  text-align: right;
+}
+body.rtl .insurance-section-2 .text1 .section-min-subheading,
+body.rtl .insurance-section-2 .text1 .section-min-heading {
+  text-align: right;
+}
+body.rtl .homertl-deal .deal-col {
+  padding-right: 5px !important;
+  padding-left: 20px !important;
+}
+body.rtl .budget-price-section .text1 h4.budget-section-heading,
+body.rtl .budget-price-section .text1 p {
+  text-align: right;
+}
+body.rtl .footerScreenAccordion1 .userSearch {
+  right: unset;
+  left: 20px;
+}
+body.rtl .accordion__body p.dotText {
+  text-align: right;
+}
+body.rtl .speacial-fare-banner .istanbull-banner-text {
+  text-align: right;
+}
+body.rtl .footerScreenAccordion1 .userGuidecon .userpara p {
+  padding-right: 0 !important;
+  padding-left: 1.5rem;
+}
+body.rtl .contact-address .contact-add label.contact-label,
+body.rtl .contact-address .contact-add ul li {
+  text-align: right;
+}
+body.rtl .blog2-text-section h2 {
+  text-align: right;
+}
+body.rtl .contact-address .ftr-social-icon a:last-child {
+  margin-right: 15px;
+}
+body.rtl .formData11.contact-form div.formHeading {
+  text-align: right;
+}
+body.rtl .blog2-text-section ul li svg {
+  margin: 0 15px !important;
+}
+body.rtl .blog2-text-section ul li {
+  margin: 0 0 0 40px;
+}
+body.rtl .blog2-text-section ul li:last-child {
+  margin-left: 0;
+}
+body.rtl .hotel-rtldetails {
+  padding-left: 0 !important;
+  padding-right: 10px;
+}
+body.rtl .blog2-desc .para-section h5,
+body.rtl .blog2-desc .para-section p {
+  text-align: right;
+}
+body.rtl .blog-container .need-help {
+  text-align: right;
+}
+body.rtl .hotel-details-four {
+  text-align: right;
+}
+body.rtl .svg-ico > div {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+body.rtl .blog-container .svg-ico svg {
+  margin-right: 0;
+  margin-left: 15px;
+}
+body.rtl .svg-ico > div {
+  padding: 0 !important;
+  margin: 0 0 0 30px !important;
+}
+body.rtl .svg-ico > div:nth-child(2) {
+  margin: 0 0 0 0 !important;
+}
+
+body.rtl .about-iner-data .about-data {
+  text-align: right;
+}
+body.rtl .all-categories {
+  text-align: right;
+}
+body.rtl .recent-stories-block {
+  text-align: right;
+}
+body.rtl .card-deal-txt .text-btn {
+  padding: 0 0 18px 0;
+}
+body.rtl footer .footer-bg .top-flight-font {
+  text-align: right;
+}
+body.rtl footer .footer-bg .flight-font div > h6 {
+  text-align: right;
+}
+body.rtl footer .footer-bg .ftr-airlines {
+  text-align: right;
+}
+body.rtl footer .footer-bg .ftr-airlines a {
+  padding-right: 0;
+  padding-left: 15px;
+}
+body.rtl footer .footer-bg .newsletter-font {
+  text-align: right;
+}
+body.rtl footer .footer-bg .divider {
+  border-left: none;
+  border-right: 2px solid #9c9c9c;
+  border-top: none;
+  border-bottom: none;
+}
+body.rtl footer .footer-bg .ftr-padd {
+  text-align: right;
+}
+body.rtl footer .footer-bg .sd-space .asfa-block {
+  text-align: right;
+}
+
+/*-----Responsive-Start--------*/
+@media screen and (max-width: 1199px) {
+  body.rtl .insurance-tab-rtl .flying-input div.search-input {
+    right: 10px;
+  }
+  body.rtl .section-dropdown button {
+    padding: 0 5px;
+  }
+  body.rtl .section-dropdown button span {
+    padding-right: 5px;
+  }
+  body.rtl .section-dropdown .dropdown button::after {
+    left: 10px;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  body.rtl .insurance-tab-rtl .flying-input div.search-input {
+    right: 30px;
+  }
+  body.rtl .blog2-text-section ul li {
+    margin: 0 0 15px 20px;
+  }
+}
+@media screen and (max-width: 991px) {
+  body.rtl .rtl-inputspc {
+    padding-left: 0 !important;
+  }
+  body.rtl div#Flights .form-row {
+    padding: 0 10px 0 5px;
+  }
+  body.rtl footer .footer-bg h5.newsletter-font {
+    float: right;
+  }
+  body.rtl .stayaction-max-txt {
+    max-width: 95%;
+  }
+  body.rtl .flying-input .dropdown-tran:last-child {
+    margin-right: 0 !important;
+  }
+  body.rtl .flying-input .toggle {
+    padding: 0;
+  }
+  body.rtl .insurance-tab-rtl .flying-input div.search-input {
+    right: 0px;
+  }
+  body.rtl .flying-input {
+    padding: 0 5px 0 2px;
+  }
+  body.rtl .rtl-inputbox-spc {
+    padding: 0 2px !important;
+  }
+  body.rtl .rtl-spac {
+    padding: 0;
+  }
+  body.rtl .flying-input div {
+    padding: 0;
+  }
+  body.rtl .tranfer .flying-input.toggle-bar {
+    padding: 0;
+  }
+  body.rtl .tranfer .flying-input .toggle {
+    margin: 15px 0 !important;
+  }
+  body.rtl .insurance-tab-rtl .flying-input {
+    padding-right: 15px;
+  }
+  .holiday .date-50 div {
+    margin: 5px 0 !important;
+  }
+  .holiday .flying-input div {
+    margin: 0 auto;
+  }
+  .holiday .flying-input .search-input {
+    margin-top: -6px;
+  }
+  body.rtl .homertl-deal .deal-col {
+    padding: 0 !important;
+  }
+  body.rtl .package-pos {
+    left: 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  body.rtl header .navbar-collapse ul.navbar-nav li.nav-item > a {
+    text-align: right;
+  }
+  body.rtl header .mob-admin-user {
+    right: unset;
+    left: 55px;
+  }
+  body.rtl .footer-scanner > div {
+    text-align: right;
+  }
+  body.rtl .footer-scanner > div img {
+    margin: 0 0 0 15px !important;
+  }
+  section.mx-auto div {
+    justify-content: center;
+  }
+  body.rtl .contact-address .contact-add label.contact-label,
+  body.rtl .contact-address .contact-add ul li {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  body.rtl .footer-bg h5.newsletter-font {
+    text-align: center;
+    float: none;
+  }
+  body.rtl footer .footer-bg h5.newsletter-font {
+    float: none;
+  }
+  .holidaySection .formCon .datacont {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .hotel-name {
+    padding-bottom: 15px;
+  }
+  .budget-price-section .phone-section {
+    justify-content: center !important;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  body.rtl .footer-scanner > div img {
+    margin: 0 10px 0 0px !important;
+  }
+}

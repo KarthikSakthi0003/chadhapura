@@ -1,0 +1,17 @@
+/* flightBooking_page */
+.flight-header-radio {
+  box-sizing: border-box;
+  padding: 0;
+  display: none;
+}
+.search_hotel_wrap1 {
+  padding: 15px 21px 15px 18px;
+  margin: 0;
+  background: #fff;
+  border-radius: 11px;
+  padding: 8px 10px;
+  margin-bottom: 18px;
+}
+.flight_details_wrap1 {
+  padding: 0 10px;
+}
